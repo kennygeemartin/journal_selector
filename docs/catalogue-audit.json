@@ -1,0 +1,2828 @@
+{
+  "checked": "10 November 2026",
+  "stats": {
+    "total": 72,
+    "any": 62,
+    "both": 43,
+    "scopus": 61,
+    "scie": 43,
+    "esci": 10,
+    "africa": 12,
+    "nigeria": 3,
+    "africanEligible": 11,
+    "apcs": 18,
+    "decisionTimes": 34,
+    "publishers": 16
+  },
+  "basis": "Scopus OR SCIE OR ESCI eligibility from dated publisher or journal-platform statements; not direct live registry checks. Regional bases use owning or managing institutional evidence.",
+  "records": [
+    {
+      "id": "cmig",
+      "title": "Computerized Medical Imaging and Graphics",
+      "publisher": "Elsevier",
+      "subject": "Health & biomedicine",
+      "issn": null,
+      "geography": null,
+      "indexing": {
+        "scopus": null,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": null,
+        "note": "Current Scopus, SCIE and ESCI coverage has not been established from a captured primary indexing statement in this catalogue. Unconfirmed does not mean unindexed. Recheck the official registries by title or ISSN.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & subscription",
+          "url": "https://shop.elsevier.com/journals/computerized-medical-imaging-and-graphics/0895-6111",
+          "note": "The publisher describes medical imaging, AI, multimodal data and clinical translation. Its shop offers institutional subscription access.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publisher access label",
+          "url": "https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics/vol/97/suppl/C",
+          "note": "The publisher’s issue record labels the journal as supporting open access.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Access options & author guide",
+          "url": "https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics/about/insights",
+          "note": "Check the current publishing options and any author charges on the publisher page. Direct ScienceDirect access was restricted during this evidence check; no numerical APC was taken from it.",
+          "kind": "Recheck required"
+        },
+        {
+          "label": "Elsevier publishing models",
+          "url": "https://www.elsevier.com/publishing/publish-in-a-journal/journal-selection",
+          "note": "Elsevier describes the choice between subscription and open access in hybrid journals. Subscription availability is supported by the journal’s official shop record; current author charges still need confirmation.",
+          "kind": "Publisher policy"
+        }
+      ]
+    },
+    {
+      "id": "aim",
+      "title": "Artificial Intelligence in Medicine",
+      "publisher": "Elsevier",
+      "subject": "Health & biomedicine",
+      "issn": null,
+      "geography": null,
+      "indexing": {
+        "scopus": null,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": null,
+        "note": "Current Scopus, SCIE and ESCI coverage has not been established from a captured primary indexing statement in this catalogue. Unconfirmed does not mean unindexed. Recheck the official registries by title or ISSN.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & subscription",
+          "url": "https://shop.elsevier.com/journals/artificial-intelligence-in-medicine/0933-3657",
+          "note": "The official journal description covers AI theory and practice in medicine, human biology and healthcare, and offers subscription access.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publisher access label",
+          "url": "https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine/vol/17/issue/1",
+          "note": "The issue record labels the journal as supporting open access.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Access options & author guide",
+          "url": "https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine/about/insights",
+          "note": "Check the current publishing options and any author charges on the publisher page. Direct ScienceDirect access was restricted during this evidence check; no numerical APC was taken from it.",
+          "kind": "Recheck required"
+        },
+        {
+          "label": "Elsevier publishing models",
+          "url": "https://www.elsevier.com/publishing/publish-in-a-journal/journal-selection",
+          "note": "Elsevier describes the choice between subscription and open access in hybrid journals. Subscription availability is supported by the journal’s official shop record; current author charges still need confirmation.",
+          "kind": "Publisher policy"
+        }
+      ]
+    },
+    {
+      "id": "cmpb",
+      "title": "Computer Methods and Programs in Biomedicine",
+      "publisher": "Elsevier",
+      "subject": "Health & biomedicine",
+      "issn": null,
+      "geography": null,
+      "indexing": {
+        "scopus": null,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": null,
+        "note": "Current Scopus, SCIE and ESCI coverage has not been established from a captured primary indexing statement in this catalogue. Unconfirmed does not mean unindexed. Recheck the official registries by title or ISSN.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & subscription",
+          "url": "https://shop.elsevier.com/journals/computer-methods-and-programs-in-biomedicine/0169-2607",
+          "note": "The publisher describes biomedical computing methods, information processing and demonstrable software systems. Subscription access is offered.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publisher access listing",
+          "url": "https://www.sciencedirect.com/author/7005841206/andreas-uhl",
+          "note": "The publisher’s journal listing labels this journal as supporting open access.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Access options & author guide",
+          "url": "https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine/about/insights",
+          "note": "Check the current publishing options and any author charges on the publisher page. Direct ScienceDirect access was restricted during this evidence check; no numerical APC was taken from it.",
+          "kind": "Recheck required"
+        },
+        {
+          "label": "Elsevier publishing models",
+          "url": "https://www.elsevier.com/publishing/publish-in-a-journal/journal-selection",
+          "note": "Elsevier describes the choice between subscription and open access in hybrid journals. Subscription availability is supported by the journal’s official shop record; current author charges still need confirmation.",
+          "kind": "Publisher policy"
+        }
+      ]
+    },
+    {
+      "id": "bspc",
+      "title": "Biomedical Signal Processing and Control",
+      "publisher": "Elsevier",
+      "subject": "Health & biomedicine",
+      "issn": null,
+      "geography": null,
+      "indexing": {
+        "scopus": null,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": null,
+        "note": "Current Scopus, SCIE and ESCI coverage has not been established from a captured primary indexing statement in this catalogue. Unconfirmed does not mean unindexed. Recheck the official registries by title or ISSN.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & subscription",
+          "url": "https://shop.elsevier.com/journals/biomedical-signal-processing-and-control/1746-8094",
+          "note": "The publisher describes biomedical signals, medical images, data fusion, robustness, interpretability and real-time implementations.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Access options & author guide",
+          "url": "https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control/about/insights",
+          "note": "Check the current publishing options and any author charges on the publisher page. Direct ScienceDirect access was restricted during this evidence check; no numerical APC was taken from it.",
+          "kind": "Recheck required"
+        },
+        {
+          "label": "Elsevier publishing models",
+          "url": "https://www.elsevier.com/publishing/publish-in-a-journal/journal-selection",
+          "note": "Elsevier describes the choice between subscription and open access in hybrid journals. Subscription availability is supported by the journal’s official shop record; current author charges still need confirmation.",
+          "kind": "Publisher policy"
+        }
+      ]
+    },
+    {
+      "id": "ijmi",
+      "title": "International Journal of Medical Informatics",
+      "publisher": "Elsevier",
+      "subject": "Health & biomedicine",
+      "issn": null,
+      "geography": null,
+      "indexing": {
+        "scopus": null,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": null,
+        "note": "Current Scopus, SCIE and ESCI coverage has not been established from a captured primary indexing statement in this catalogue. Unconfirmed does not mean unindexed. Recheck the official registries by title or ISSN.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & subscription",
+          "url": "https://shop.elsevier.com/journals/international-journal-of-medical-informatics/1386-5056",
+          "note": "The current publisher scope prioritises evaluated clinical systems and includes evidence syntheses. It explicitly lists exclusions for purely technical models and unevaluated frameworks.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Access options & author guide",
+          "url": "https://www.sciencedirect.com/journal/international-journal-of-medical-informatics/about/insights",
+          "note": "Check the current publishing options and any author charges on the publisher page. Direct ScienceDirect access was restricted during this evidence check; no numerical APC was taken from it.",
+          "kind": "Recheck required"
+        },
+        {
+          "label": "Elsevier publishing models",
+          "url": "https://www.elsevier.com/publishing/publish-in-a-journal/journal-selection",
+          "note": "Elsevier describes the choice between subscription and open access in hybrid journals. Subscription availability is supported by the journal’s official shop record; current author charges still need confirmation.",
+          "kind": "Publisher policy"
+        }
+      ]
+    },
+    {
+      "id": "air",
+      "title": "Artificial Intelligence Review",
+      "publisher": "Springer Nature",
+      "subject": "Artificial intelligence",
+      "issn": "1573-7462",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/10462",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Reconfirm current coverage in Scopus Sources and the Clarivate Master Journal List before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "open",
+      "usdListAPC": 3390,
+      "feeDisplay": null,
+      "knownUsdTotal": 3390,
+      "firstDecisionMedianDays": 12,
+      "evidence": [
+        {
+          "label": "Aims & scope",
+          "url": "https://link.springer.com/journal/10462/aims-and-scope",
+          "note": "The journal describes critical evaluations, survey articles and tutorials in AI and cognitive science.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified APC & access",
+          "url": "https://link.springer.com/journal/10462/how-to-publish-with-us",
+          "note": "Lists USD 3,390, GBP 2,490 or EUR 2,790, with applicable taxes; price determined at acceptance. The journal is fully open access.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "First-decision metric",
+          "url": "https://link.springer.com/journal/10462",
+          "note": "Publisher reports a 12-day median submission to first decision. This includes editorial decisions and is not time to acceptance or publication.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "bmc",
+      "title": "BMC Medical Informatics and Decision Making",
+      "publisher": "Springer Nature",
+      "subject": "Health & biomedicine",
+      "issn": "1472-6947",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/12911",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Reconfirm current coverage in Scopus Sources and the Clarivate Master Journal List before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "open",
+      "usdListAPC": 3090,
+      "feeDisplay": null,
+      "knownUsdTotal": 3090,
+      "firstDecisionMedianDays": 7,
+      "evidence": [
+        {
+          "label": "Aims & scope",
+          "url": "https://link.springer.com/journal/12911/aims-and-scope",
+          "note": "Covers health information technologies and decision-making. Editorial policy focuses on scientific validity rather than perceived impact.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified APC & pricing pilot",
+          "url": "https://link.springer.com/journal/12911/how-to-publish-with-us",
+          "note": "Lists USD 3,090, GBP 2,390 or EUR 2,690 plus applicable taxes, and links a country-tiered APC pricing pilot.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "First-decision metric",
+          "url": "https://link.springer.com/journal/12911",
+          "note": "Publisher reports a 7-day median submission to first decision. It is not a publication-time commitment.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "acta",
+      "title": "Acta Tropica",
+      "publisher": "Elsevier",
+      "subject": "Health & biomedicine",
+      "issn": null,
+      "geography": null,
+      "indexing": {
+        "scopus": null,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": null,
+        "note": "Current Scopus, SCIE and ESCI coverage has not been established from a captured primary indexing statement in this catalogue. Unconfirmed does not mean unindexed. Recheck the official registries by title or ISSN.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & subscription",
+          "url": "https://shop.elsevier.com/journals/acta-tropica/0001-706X",
+          "note": "The official description covers infectious diseases, public health and social sciences, accepts review articles and lists desk-rejection criteria.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Access options & author guide",
+          "url": "https://www.sciencedirect.com/journal/acta-tropica/about/insights",
+          "note": "Check the current publishing options and any author charges on the publisher page. Direct ScienceDirect access was restricted during this evidence check; no numerical APC was taken from it.",
+          "kind": "Recheck required"
+        },
+        {
+          "label": "Elsevier publishing models",
+          "url": "https://www.elsevier.com/publishing/publish-in-a-journal/journal-selection",
+          "note": "Elsevier describes the choice between subscription and open access in hybrid journals. Subscription availability is supported by the journal’s official shop record; current author charges still need confirmation.",
+          "kind": "Publisher policy"
+        }
+      ]
+    },
+    {
+      "id": "sci-af",
+      "title": "Scientific African",
+      "publisher": "Elsevier",
+      "subject": "Multidisciplinary research",
+      "issn": null,
+      "geography": null,
+      "indexing": {
+        "scopus": null,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": null,
+        "note": "Current Scopus, SCIE and ESCI coverage has not been established from a captured primary indexing statement in this catalogue. Unconfirmed does not mean unindexed. Recheck the official registries by title or ISSN.",
+        "checked": "10 November 2026"
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Open-access directory record",
+          "url": "https://doaj.org/toc/2468-2276",
+          "note": "DOAJ lists Scientific African as open access and links a waiver policy. Its APC differs from other retrieved listings, so no amount is treated as verified here.",
+          "kind": "Independent directory"
+        },
+        {
+          "label": "Publisher journal & author guide",
+          "url": "https://www.sciencedirect.com/journal/scientific-african",
+          "note": "Use this publisher page to confirm exact scope, article type and current charges. Direct access was restricted during the evidence check.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "cose",
+      "title": "Computers & Security",
+      "publisher": "Elsevier",
+      "subject": "Cybersecurity",
+      "issn": null,
+      "geography": null,
+      "indexing": {
+        "scopus": null,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": null,
+        "note": "Current Scopus, SCIE and ESCI coverage has not been established from a captured primary indexing statement in this catalogue. Unconfirmed does not mean unindexed. Recheck the official registries by title or ISSN.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & subscription",
+          "url": "https://shop.elsevier.com/journals/computers-and-security/0167-4048",
+          "note": "The publisher explicitly states an AI/ML moratorium introduced in early 2024 and excludes cryptology including principal blockchain contributions.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publisher access listing",
+          "url": "https://www.sciencedirect.com/author/7005841206/andreas-uhl",
+          "note": "The publisher’s listing labels Computers & Security as supporting open access.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Access options & author guide",
+          "url": "https://www.sciencedirect.com/journal/computers-and-security/about/insights",
+          "note": "Check the current publishing options and any author charges on the publisher page. Direct ScienceDirect access was restricted during this evidence check; no numerical APC was taken from it.",
+          "kind": "Recheck required"
+        },
+        {
+          "label": "Elsevier publishing models",
+          "url": "https://www.elsevier.com/publishing/publish-in-a-journal/journal-selection",
+          "note": "Elsevier describes the choice between subscription and open access in hybrid journals. Subscription availability is supported by the journal’s official shop record; current author charges still need confirmation.",
+          "kind": "Publisher policy"
+        }
+      ]
+    },
+    {
+      "id": "epsr",
+      "title": "Electric Power Systems Research",
+      "publisher": "Elsevier",
+      "subject": "Power & energy",
+      "issn": null,
+      "geography": null,
+      "indexing": {
+        "scopus": null,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": null,
+        "note": "Current Scopus, SCIE and ESCI coverage has not been established from a captured primary indexing statement in this catalogue. Unconfirmed does not mean unindexed. Recheck the official registries by title or ISSN.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & subscription",
+          "url": "https://shop.elsevier.com/journals/electric-power-systems-research/0378-7796",
+          "note": "The publisher describes power-system research and explicitly says reviews are accepted by invitation only.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Access options & author guide",
+          "url": "https://www.sciencedirect.com/journal/electric-power-systems-research/about/insights",
+          "note": "Check the current publishing options and any author charges on the publisher page. Direct ScienceDirect access was restricted during this evidence check; no numerical APC was taken from it.",
+          "kind": "Recheck required"
+        },
+        {
+          "label": "Elsevier publishing models",
+          "url": "https://www.elsevier.com/publishing/publish-in-a-journal/journal-selection",
+          "note": "Elsevier describes the choice between subscription and open access in hybrid journals. Subscription availability is supported by the journal’s official shop record; current author charges still need confirmation.",
+          "kind": "Publisher policy"
+        }
+      ]
+    },
+    {
+      "id": "plos",
+      "title": "PLOS ONE",
+      "publisher": "PLOS",
+      "subject": "Multidisciplinary research",
+      "issn": null,
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": "https://journals.plos.org/plosone/s/journal-information",
+        "note": "The publisher lists Scopus and generic Web of Science coverage. A generic Web of Science statement does not by itself establish the exact SCIE collection; recheck Clarivate.",
+        "checked": "10 November 2026"
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Scope, article types & criteria",
+          "url": "https://journals.plos.org/plosone/s/journal-information",
+          "note": "The journal lists original research, systematic reviews, validated methods and protocols, with assessment based on scientific validity.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Fees & assistance",
+          "url": "https://plos.org/fees/",
+          "note": "Current fees depend on article type; institutional arrangements, Research4Life and need-based assistance can apply. Request assistance at submission.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "supercomputing",
+      "title": "The Journal of Supercomputing",
+      "publisher": "Springer Nature",
+      "subject": "Cloud & distributed computing",
+      "issn": "1573-0484",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/11227",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 38,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/11227",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 38 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/11227/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "nca",
+      "title": "Neural Computing and Applications",
+      "publisher": "Springer Nature",
+      "subject": "Artificial intelligence",
+      "issn": "1433-3058",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": "https://link.springer.com/journal/521",
+        "note": "Scopus is explicit in the retrieved publisher list. SCIE was not established by that evidence; absence here is not a claim of delisting. Check the Clarivate Master Journal List.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 14,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/521",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It lists Scopus; the retrieved list does not establish SCIE. Its median first decision is 14 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/521/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "applied-intelligence",
+      "title": "Applied Intelligence",
+      "publisher": "Springer Nature",
+      "subject": "Artificial intelligence",
+      "issn": "1573-7497",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/10489",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 45,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/10489",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 45 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/10489/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "jnsm",
+      "title": "Journal of Network and Systems Management",
+      "publisher": "Springer Nature",
+      "subject": "Networks & communications",
+      "issn": "1573-7705",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/10922",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 31,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/10922",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 31 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/10922/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "telecom",
+      "title": "Telecommunication Systems",
+      "publisher": "Springer Nature",
+      "subject": "Networks & communications",
+      "issn": "1572-9451",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/11235",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 4,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/11235",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 4 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/11235/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "mtap",
+      "title": "Multimedia Tools and Applications",
+      "publisher": "Springer Nature",
+      "subject": "Computer vision & multimedia",
+      "issn": "1573-7721",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": "https://link.springer.com/journal/11042",
+        "note": "Scopus is explicit in the retrieved publisher list. SCIE was not established by that evidence; absence here is not a claim of delisting. Check the Clarivate Master Journal List.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 34,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/11042",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It lists Scopus; the retrieved list does not establish SCIE. Its median first decision is 34 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/11042/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "emse",
+      "title": "Empirical Software Engineering",
+      "publisher": "Springer Nature",
+      "subject": "Software engineering",
+      "issn": "1573-7616",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/10664",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 24,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/10664",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 24 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/10664/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "sqj",
+      "title": "Software Quality Journal",
+      "publisher": "Springer Nature",
+      "subject": "Software engineering",
+      "issn": "1573-1367",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/11219",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 12,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/11219",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 12 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/11219/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "soft-computing",
+      "title": "Soft Computing",
+      "publisher": "Springer Nature",
+      "subject": "Artificial intelligence",
+      "issn": "1433-7479",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/500",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 275,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/500",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 275 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/500/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "cluster",
+      "title": "Cluster Computing",
+      "publisher": "Springer Nature",
+      "subject": "Cloud & distributed computing",
+      "issn": "1573-7543",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/10586",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 25,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/10586",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 25 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/10586/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "kais",
+      "title": "Knowledge and Information Systems",
+      "publisher": "Springer Nature",
+      "subject": "Data science & knowledge systems",
+      "issn": "0219-3116",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/10115",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 12,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/10115",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 12 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/10115/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "dmkd",
+      "title": "Data Mining and Knowledge Discovery",
+      "publisher": "Springer Nature",
+      "subject": "Data science & knowledge systems",
+      "issn": "1573-756X",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/10618",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 3,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/10618",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 3 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/10618/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "machine-learning",
+      "title": "Machine Learning",
+      "publisher": "Springer Nature",
+      "subject": "Artificial intelligence",
+      "issn": "1573-0565",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/10994",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 5,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/10994",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 5 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/10994/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "ijis",
+      "title": "International Journal of Information Security",
+      "publisher": "Springer Nature",
+      "subject": "Cybersecurity",
+      "issn": "1615-5270",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/10207",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "open",
+      "usdListAPC": 3690,
+      "feeDisplay": null,
+      "knownUsdTotal": 3690,
+      "firstDecisionMedianDays": 9,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/10207",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 9 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified APC & publishing terms",
+          "url": "https://link.springer.com/journal/10207/how-to-publish-with-us",
+          "note": "The publisher lists USD 3,690 before applicable taxes. Recheck the amount, acceptance-date rules and funding eligibility before submission.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "cybersecurity",
+      "title": "Cybersecurity",
+      "publisher": "Springer Nature",
+      "subject": "Cybersecurity",
+      "issn": "2523-3246",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": false,
+        "wos": "ESCI",
+        "source": "https://link.springer.com/journal/42400",
+        "note": "The publisher explicitly lists Scopus and Emerging Sources Citation Index (ESCI). ESCI is distinct from SCIE; this record is excluded by the SCIE filter.",
+        "checked": "10 November 2026"
+      },
+      "access": "open",
+      "usdListAPC": 1485,
+      "feeDisplay": null,
+      "knownUsdTotal": 1485,
+      "firstDecisionMedianDays": 15,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/42400",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Emerging Sources Citation Index (ESCI), which is distinct from SCIE. Its median first decision is 15 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified APC & publishing terms",
+          "url": "https://link.springer.com/journal/42400/how-to-publish-with-us",
+          "note": "The publisher lists USD 1,485 before applicable taxes. Recheck the amount, acceptance-date rules and funding eligibility before submission.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "cloud-computing",
+      "title": "Journal of Cloud Computing",
+      "publisher": "Springer Nature",
+      "subject": "Cloud & distributed computing",
+      "issn": "2192-113X",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/13677",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "open",
+      "usdListAPC": 1890,
+      "feeDisplay": null,
+      "knownUsdTotal": 1890,
+      "firstDecisionMedianDays": 40,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/13677",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 40 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified APC & publishing terms",
+          "url": "https://link.springer.com/journal/13677/how-to-publish-with-us",
+          "note": "The publisher lists USD 1,890 before applicable taxes. Recheck the amount, acceptance-date rules and funding eligibility before submission.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "big-data",
+      "title": "Journal of Big Data",
+      "publisher": "Springer Nature",
+      "subject": "Data science & knowledge systems",
+      "issn": "2196-1115",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/40537",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "open",
+      "usdListAPC": 2290,
+      "feeDisplay": null,
+      "knownUsdTotal": 2290,
+      "firstDecisionMedianDays": 57,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/40537",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 57 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified APC & publishing terms",
+          "url": "https://link.springer.com/journal/40537/how-to-publish-with-us",
+          "note": "The publisher lists USD 2,290 before applicable taxes. Recheck the amount, acceptance-date rules and funding eligibility before submission.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "ml-cybernetics",
+      "title": "International Journal of Machine Learning and Cybernetics",
+      "publisher": "Springer Nature",
+      "subject": "Artificial intelligence",
+      "issn": "1868-808X",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/13042",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 4,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/13042",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 4 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/13042/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "cognitive",
+      "title": "Cognitive Computation",
+      "publisher": "Springer Nature",
+      "subject": "Artificial intelligence",
+      "issn": "1866-9964",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/12559",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "open",
+      "usdListAPC": 3090,
+      "feeDisplay": null,
+      "knownUsdTotal": 3090,
+      "firstDecisionMedianDays": 22,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/12559",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 22 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified APC & publishing terms",
+          "url": "https://link.springer.com/journal/12559/how-to-publish-with-us",
+          "note": "The publisher lists USD 3,090 before applicable taxes. Recheck the amount, acceptance-date rules and funding eligibility before submission.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "jrtip",
+      "title": "Journal of Real-Time Image Processing",
+      "publisher": "Springer Nature",
+      "subject": "Computer vision & multimedia",
+      "issn": "1861-8219",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/11554",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 2,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/11554",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 2 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/11554/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "machine-vision",
+      "title": "Machine Vision and Applications",
+      "publisher": "Springer Nature",
+      "subject": "Computer vision & multimedia",
+      "issn": "1432-1769",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/138",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 30,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/138",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 30 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/138/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "ase",
+      "title": "Automated Software Engineering",
+      "publisher": "Springer Nature",
+      "subject": "Software engineering",
+      "issn": "1573-7535",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/10515",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 16,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/10515",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 16 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/10515/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "requirements",
+      "title": "Requirements Engineering",
+      "publisher": "Springer Nature",
+      "subject": "Software engineering",
+      "issn": "1432-010X",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/766",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 5,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/766",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 5 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/766/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "computing",
+      "title": "Computing",
+      "publisher": "Springer Nature",
+      "subject": "General computer science",
+      "issn": "1436-5057",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/607",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 6,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/607",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 6 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/607/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "robotic-systems",
+      "title": "Journal of Intelligent & Robotic Systems",
+      "publisher": "Springer Nature",
+      "subject": "Robotics & control",
+      "issn": "1573-0409",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/10846",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "open",
+      "usdListAPC": 3190,
+      "feeDisplay": null,
+      "knownUsdTotal": 3190,
+      "firstDecisionMedianDays": 12,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/10846",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 12 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified APC & publishing terms",
+          "url": "https://link.springer.com/journal/10846/how-to-publish-with-us",
+          "note": "The publisher lists USD 3,190 before applicable taxes. Recheck the amount, acceptance-date rules and funding eligibility before submission.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "frontiers-cs",
+      "title": "Frontiers of Computer Science",
+      "publisher": "Springer Nature",
+      "subject": "General computer science",
+      "issn": "2095-2236",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/11704",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/11704",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE).",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/11704/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "ijcas",
+      "title": "International Journal of Control, Automation, and Systems",
+      "publisher": "Springer Nature",
+      "subject": "Robotics & control",
+      "issn": "2005-4092",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://link.springer.com/journal/12555",
+        "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded. Direct current-coverage checks in the two database registries were not completed; confirm by exact title or ISSN before submission.",
+        "checked": "10 November 2026"
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 25,
+      "evidence": [
+        {
+          "label": "Publisher scope, route & indexing",
+          "url": "https://link.springer.com/journal/12555",
+          "note": "The journal homepage supplies its scope, publishing model and abstracting/indexing list. It explicitly lists Scopus and Science Citation Index Expanded (SCIE). Its median first decision is 25 days; this is not time to publication.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publishing terms & APC recheck",
+          "url": "https://link.springer.com/journal/12555/how-to-publish-with-us",
+          "note": "Use the current publisher terms to check optional open access fees and any author charges. No numerical APC is assumed here.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "ieee-access",
+      "title": "IEEE Access",
+      "publisher": "IEEE",
+      "subject": "General computer science",
+      "issn": "2169-3536",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://ieeeaccess.ieee.org/about/bibliometrics/",
+        "note": "IEEE explicitly lists Scopus and Science Citation Index Expanded. This is a publisher statement, not a live database-registry query.",
+        "checked": "10 November 2026"
+      },
+      "access": "open",
+      "usdListAPC": 2160,
+      "feeDisplay": null,
+      "knownUsdTotal": 2160,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & access model",
+          "url": "https://ieeeaccess.ieee.org/",
+          "note": "IEEE describes a gold open access, multidisciplinary journal covering science and technology across its fields of interest.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publisher indexing statement",
+          "url": "https://ieeeaccess.ieee.org/about/bibliometrics/",
+          "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded among the abstracting and indexing services.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified APC & discounts",
+          "url": "https://ieeeaccess.ieee.org/about/article-processing-charges/",
+          "note": "The publisher lists USD 2,160 plus applicable local taxes. Membership and country-related discounts are subject to stated conditions.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "nijotech",
+      "title": "Nigerian Journal of Technology",
+      "publisher": "University of Nigeria, Nsukka",
+      "subject": "Engineering & applied sciences",
+      "issn": "2467-8821",
+      "geography": {
+        "country": "Nigeria",
+        "region": "Africa",
+        "institution": "Faculty of Engineering, University of Nigeria, Nsukka",
+        "source": "https://www.nijotech.com/index.php/nijotech",
+        "note": "The journal homepage identifies the University of Nigeria, Nsukka and its engineering faculty base."
+      },
+      "indexing": {
+        "scopus": true,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": "https://www.nijotech.com/index.php/nijotech/Indexing",
+        "checked": "10 November 2026",
+        "note": "Scopus is explicitly reported; SCIE and ESCI have not been established from the captured sources. Confirm current registry coverage before submission."
+      },
+      "access": "open",
+      "usdListAPC": 200,
+      "feeDisplay": "NGN 80,000 local / USD 200 foreign",
+      "knownUsdTotal": 200,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Journal scope & Nigerian institutional base",
+          "url": "https://www.nijotech.com/index.php/nijotech",
+          "note": "The homepage identifies the engineering faculty in Nsukka and covers computer, software, telecommunications and electrical engineering.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publisher Scopus statement",
+          "url": "https://www.nijotech.com/index.php/nijotech/Indexing",
+          "note": "Scopus is explicitly listed. The exact SCIE or ESCI collection has not been established.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified local & foreign author fees",
+          "url": "https://www.nijotech.com/index.php/nijotech/information/authors",
+          "note": "Quotes local NGN 80,000 or USD 200 where a paper has foreign affiliation, after acceptance. Print and postage can add costs.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "njtd",
+      "title": "Nigerian Journal of Technological Development",
+      "publisher": "University of Ilorin",
+      "subject": "Engineering & applied sciences",
+      "issn": "2437-2110",
+      "geography": {
+        "country": "Nigeria",
+        "region": "Africa",
+        "institution": "Faculty of Engineering & Technology, University of Ilorin",
+        "source": "https://journal.njtd.com.ng/index.php/njtd",
+        "note": "The journal identifies its owning engineering and technology faculty at the University of Ilorin."
+      },
+      "indexing": {
+        "scopus": true,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": "https://journal.njtd.com.ng/index.php/njtd",
+        "checked": "10 November 2026",
+        "note": "Scopus is explicitly reported; SCIE and ESCI have not been established from the captured sources. Confirm current registry coverage before submission."
+      },
+      "access": "open",
+      "usdListAPC": 250,
+      "feeDisplay": "NGN 100,000 local / USD 250 + VAT foreign",
+      "knownUsdTotal": 268.75,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Scope, institutional base & Scopus statement",
+          "url": "https://journal.njtd.com.ng/index.php/njtd",
+          "note": "The journal homepage identifies its University of Ilorin base, engineering scope and Scopus coverage.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified affiliation-based APC schedule",
+          "url": "https://journal.njtd.com.ng/index.php/njtd/information/authors",
+          "note": "The April 2025 schedule specifies local and foreign lead-author tiers, VAT, page limits and excess-page fees.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "jnsps",
+      "title": "Journal of the Nigerian Society of Physical Sciences",
+      "publisher": "Nigerian Society of Physical Sciences",
+      "subject": "General computer science",
+      "issn": "2714-4704",
+      "geography": {
+        "country": "Nigeria",
+        "region": "Africa",
+        "institution": "Nigerian Society of Physical Sciences",
+        "source": "https://www.journal.nsps.org.ng/index.php/jnsps/about",
+        "note": "The journal is published by the Nigerian Society of Physical Sciences."
+      },
+      "indexing": {
+        "scopus": true,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": "https://www.journal.nsps.org.ng/index.php/jnsps/about/indexing-abstracting",
+        "checked": "10 November 2026",
+        "note": "Scopus is explicitly reported; SCIE and ESCI have not been established from the captured sources. Confirm current registry coverage before submission."
+      },
+      "access": "open",
+      "usdListAPC": 300,
+      "feeDisplay": "NGN 100,000 member / USD 300 regular",
+      "knownUsdTotal": 300,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Society publisher & physical-science scope",
+          "url": "https://www.journal.nsps.org.ng/index.php/jnsps/about",
+          "note": "The society publishes physical sciences, including computer science, mathematics and statistics.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publisher indexing statement",
+          "url": "https://www.journal.nsps.org.ng/index.php/jnsps/about/indexing-abstracting",
+          "note": "The publisher explicitly lists Scopus. Exact SCIE and ESCI coverage is not established here.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Author publication charges",
+          "url": "https://www.journal.nsps.org.ng/index.php/jnsps/about/apc",
+          "note": "Quotes the regular USD charge and a conditional active Nigerian member tier.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Scope exclusions FAQ",
+          "url": "https://www.journal.nsps.org.ng/index.php/jnsps/about/FAQ",
+          "note": "Check exclusions for engineering, medical and biological applications before relying on a keyword match.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "sacj",
+      "title": "South African Computer Journal",
+      "publisher": "SAICSIT",
+      "subject": "General computer science",
+      "issn": "2313-7835",
+      "geography": {
+        "country": "South Africa",
+        "region": "Africa",
+        "institution": "South African Institute of Computer Scientists and Information Technologists (SAICSIT)",
+        "source": "https://sacj.org.za/about",
+        "note": "The journal identifies SAICSIT as its South African institutional publisher."
+      },
+      "indexing": {
+        "scopus": true,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": "https://sacj.org.za/about",
+        "checked": "10 November 2026",
+        "note": "Scopus is explicitly reported; SCIE and ESCI have not been established from the captured sources. Confirm current registry coverage before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": "ZAR 6,000",
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Scope, publisher & Scopus statement",
+          "url": "https://sacj.org.za/about",
+          "note": "The journal identifies SAICSIT, computer and information systems scope and Scopus coverage.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified ZAR fee & discretionary waiver",
+          "url": "https://sacj.org.za/policies",
+          "note": "Accepted papers carry ZAR 6,000. Waivers depend on a request and editorial discretion; no USD conversion is made.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "sajie",
+      "title": "South African Journal of Industrial Engineering",
+      "publisher": "SAIIE",
+      "subject": "Engineering & applied sciences",
+      "issn": "2224-7890",
+      "geography": {
+        "country": "South Africa",
+        "region": "Africa",
+        "institution": "South African Institute for Industrial Engineering (SAIIE)",
+        "source": "https://scielo.org.za/revistas/sajie/iaboutj.htm",
+        "note": "The journal information page identifies the South African industrial engineering society base."
+      },
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://scielo.org.za/revistas/sajie/iaboutj.htm",
+        "checked": "10 November 2026",
+        "note": "The journal platform explicitly reports Scopus and Science Citation Index Expanded. Reconfirm current coverage in the official registries before submission."
+      },
+      "access": "open",
+      "usdListAPC": 440,
+      "feeDisplay": "USD 670 international base total",
+      "knownUsdTotal": 670,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Institutional base, scope & exact indexes",
+          "url": "https://scielo.org.za/revistas/sajie/iaboutj.htm",
+          "note": "The journal information page explicitly lists Scopus and Science Citation Index Expanded.",
+          "kind": "Journal platform"
+        },
+        {
+          "label": "Mandatory submission & publication charges",
+          "url": "https://sajie.journals.ac.za/pub/about/submissions",
+          "note": "Separate submission and publication fees apply, with local and international tiers, VAT and excess-page terms.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "sajs",
+      "title": "South African Journal of Science",
+      "publisher": "Academy of Science of South Africa",
+      "subject": "Multidisciplinary research",
+      "issn": "1996-7489",
+      "geography": {
+        "country": "South Africa",
+        "region": "Africa",
+        "institution": "Academy of Science of South Africa (ASSAf)",
+        "source": "https://www.sajs.co.za/index.php/sajs/about",
+        "note": "The journal identifies ASSAf as its publisher."
+      },
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://www.sajs.co.za/index.php/sajs/accreditation",
+        "checked": "10 November 2026",
+        "note": "The journal platform explicitly reports Scopus and Science Citation Index Expanded. Reconfirm current coverage in the official registries before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Institutional base & multidisciplinary scope",
+          "url": "https://www.sajs.co.za/index.php/sajs/about",
+          "note": "The journal is published by ASSAf and addresses African research for a multidisciplinary readership.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Explicit Scopus & SCIE accreditation",
+          "url": "https://www.sajs.co.za/index.php/sajs/accreditation",
+          "note": "The journal accreditation page explicitly identifies Scopus and Science Citation Index Expanded.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "jesa",
+      "title": "Journal of Energy in Southern Africa",
+      "publisher": "University of Cape Town",
+      "subject": "Power & energy",
+      "issn": "2413-3051",
+      "geography": {
+        "country": "South Africa",
+        "region": "Africa",
+        "institution": "Department of Electrical Engineering, University of Cape Town",
+        "source": "https://www.sajs.co.za/index.php/jesa/en/about",
+        "note": "The journal identifies its University of Cape Town electrical engineering base."
+      },
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://www.sajs.co.za/index.php/jesa/en/about",
+        "checked": "10 November 2026",
+        "note": "The journal platform explicitly reports Scopus and Science Citation Index Expanded. Reconfirm current coverage in the official registries before submission."
+      },
+      "access": "open",
+      "usdListAPC": 0,
+      "feeDisplay": "No author fees · diamond OA",
+      "knownUsdTotal": 0,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Institutional base, energy scope & indexes",
+          "url": "https://www.sajs.co.za/index.php/jesa/en/about",
+          "note": "The journal describes southern African energy scope and explicitly reports Scopus and SCIE.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified no-author-fee policy",
+          "url": "https://energyjournal.africa/index.php/jesa/en/policies",
+          "note": "The current policy states diamond open access with no APCs or other author fees; older historical fee schedules are not used.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Current submission requirements",
+          "url": "https://energyjournal.africa/index.php/jesa/en/about/submissions",
+          "note": "Check article type, southern African relevance and current submission instructions.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "saiee",
+      "title": "SAIEE Africa Research Journal",
+      "publisher": "South African Institute of Electrical Engineers",
+      "subject": "Engineering & applied sciences",
+      "issn": "1991-1696",
+      "geography": {
+        "country": "South Africa",
+        "region": "Africa",
+        "institution": "South African Institute of Electrical Engineers",
+        "source": "https://scielo.org.za/revistas/arj/iaboutj.htm",
+        "note": "The journal platform identifies the South African electrical engineering institute as publisher."
+      },
+      "indexing": {
+        "scopus": null,
+        "scie": false,
+        "wos": "ESCI",
+        "source": "https://journals.uj.ac.za/index.php/SAIEE/announcement/view/9",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reported ESCI in a 2022 announcement. Scopus evidence conflicts: the publisher lists it while SciELO describes former coverage. Scopus remains unconfirmed; SCIE is not established. Recheck current registries."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Dated publisher ESCI announcement",
+          "url": "https://journals.uj.ac.za/index.php/SAIEE/announcement/view/9",
+          "note": "The 2022 publisher announcement explicitly identifies ESCI. Its age and current coverage need checking.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Scope, institutional base & indexing caveat",
+          "url": "https://scielo.org.za/revistas/arj/iaboutj.htm",
+          "note": "SciELO describes the electrical engineering scope and former Scopus coverage, conflicting with a publisher Scopus claim.",
+          "kind": "Journal platform"
+        }
+      ]
+    },
+    {
+      "id": "ain-shams",
+      "title": "Ain Shams Engineering Journal",
+      "publisher": "Elsevier",
+      "subject": "Engineering & applied sciences",
+      "issn": "2090-4495",
+      "geography": {
+        "country": "Egypt",
+        "region": "Africa",
+        "institution": "Faculty of Engineering, Ain Shams University",
+        "source": "https://new.eng.asu.edu.eg/2064433",
+        "note": "The faculty identifies this journal as its engineering publication, distributed through Elsevier."
+      },
+      "indexing": {
+        "scopus": true,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": "https://new.eng.asu.edu.eg/2064433",
+        "checked": "10 November 2026",
+        "note": "Scopus is explicitly reported; SCIE and ESCI have not been established from the captured sources. Confirm current registry coverage before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "University ownership, engineering scope & Scopus",
+          "url": "https://new.eng.asu.edu.eg/2064433",
+          "note": "The owning faculty describes its open-access engineering journal and explicitly discusses Scopus ranking.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Open-access directory record",
+          "url": "https://doaj.org/toc/2090-4495",
+          "note": "Use the exact journal record to cross-check identity and open access; current primary-source author fees remain unverified.",
+          "kind": "Independent directory"
+        }
+      ]
+    },
+    {
+      "id": "ejrs",
+      "title": "Egyptian Journal of Remote Sensing and Space Sciences",
+      "publisher": "Elsevier",
+      "subject": "Computer vision & multimedia",
+      "issn": "2090-2476",
+      "geography": {
+        "country": "Egypt",
+        "region": "Africa",
+        "institution": "National Authority for Remote Sensing and Space Sciences (NARSS)",
+        "source": "https://www.narss.sci.eg/all-journals",
+        "note": "The Egyptian authority identifies this as its journal, published through Elsevier."
+      },
+      "indexing": {
+        "scopus": true,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": "https://www.narss.sci.eg/all-journals",
+        "checked": "10 November 2026",
+        "note": "Scopus is explicitly reported; SCIE and ESCI have not been established from the captured sources. Confirm current registry coverage before submission."
+      },
+      "access": "open",
+      "usdListAPC": 1200,
+      "feeDisplay": null,
+      "knownUsdTotal": 1200,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Owning authority, scope, APC & Scopus statement",
+          "url": "https://www.narss.sci.eg/all-journals",
+          "note": "NARSS identifies ownership, scope, Scopus data and a USD 1,200 APC. Exact Clarivate collection is not established.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Independent journal identity",
+          "url": "https://doaj.org/toc/1110-9823",
+          "note": "Cross-check the title and open-access record. The online ISSN is 2090-2476.",
+          "kind": "Independent directory"
+        }
+      ]
+    },
+    {
+      "id": "egypt-informatics",
+      "title": "Egyptian Informatics Journal",
+      "publisher": "Elsevier",
+      "subject": "General computer science",
+      "issn": "2090-4754",
+      "geography": {
+        "country": "Egypt",
+        "region": "Africa",
+        "institution": "Faculty of Computers and Artificial Intelligence, Cairo University",
+        "source": "https://cu.edu.eg/Publications",
+        "note": "Cairo University lists the journal among its faculty publications."
+      },
+      "indexing": {
+        "scopus": null,
+        "scie": null,
+        "wos": "Unconfirmed",
+        "source": null,
+        "note": "Captured primary sources establish the Egyptian institutional base but do not establish any exact eligible index. Secondary directory claims are not promoted to verified index flags. Unconfirmed does not mean unindexed.",
+        "checked": "10 November 2026"
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "University publication ownership",
+          "url": "https://cu.edu.eg/Publications",
+          "note": "The university lists the journal among its computing faculty publications.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "ISSN publisher identity",
+          "url": "https://publishers.issn.org/resource/ISSN/2090-4754",
+          "note": "The record supports journal identity and country; generic Web of Science metadata is not exact SCIE or ESCI evidence.",
+          "kind": "ISSN registry"
+        },
+        {
+          "label": "Open-access record to recheck",
+          "url": "https://doaj.org/toc/1110-8665",
+          "note": "Direct retrieval was restricted; confirm current access, scope and fees with the publisher.",
+          "kind": "Recheck required"
+        }
+      ]
+    },
+    {
+      "id": "mdpi-algorithms",
+      "title": "Algorithms",
+      "publisher": "MDPI",
+      "subject": "General computer science",
+      "issn": "1999-4893",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": false,
+        "wos": "ESCI",
+        "source": "https://www.mdpi.com/journal/algorithms/indexing",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Emerging Sources Citation Index; ESCI is distinct from SCIE. Confirm current coverage by exact title or ISSN in the official registries before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": "CHF 1,800 + applicable tax",
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & access model",
+          "url": "https://www.mdpi.com/journal/algorithms/about",
+          "note": "The official journal description supplies the scope and fully open access publishing model.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Exact publisher indexing statement",
+          "url": "https://www.mdpi.com/journal/algorithms/indexing",
+          "note": "The publisher explicitly lists Scopus and Emerging Sources Citation Index (ESCI), distinct from SCIE. This is a dated source statement, not a live registry query.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified CHF APC & tax terms",
+          "url": "https://www.mdpi.com/journal/algorithms/apc",
+          "note": "The publisher quotes CHF 1,800 after acceptance, with applicable local tax additional. Conditional discounts are not assumed. No USD conversion is made.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "mdpi-computers",
+      "title": "Computers",
+      "publisher": "MDPI",
+      "subject": "General computer science",
+      "issn": "2073-431X",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": false,
+        "wos": "ESCI",
+        "source": "https://www.mdpi.com/journal/computers/indexing",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Emerging Sources Citation Index; ESCI is distinct from SCIE. Confirm current coverage by exact title or ISSN in the official registries before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": "CHF 1,800 + applicable tax",
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & access model",
+          "url": "https://www.mdpi.com/journal/computers/about",
+          "note": "The official journal description supplies the scope and fully open access publishing model.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Exact publisher indexing statement",
+          "url": "https://www.mdpi.com/journal/computers/indexing",
+          "note": "The publisher explicitly lists Scopus and Emerging Sources Citation Index (ESCI), distinct from SCIE. This is a dated source statement, not a live registry query.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified CHF APC & tax terms",
+          "url": "https://www.mdpi.com/journal/computers/apc",
+          "note": "The publisher quotes CHF 1,800 after acceptance, with applicable local tax additional. Conditional discounts are not assumed. No USD conversion is made.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "mdpi-informatics",
+      "title": "Informatics",
+      "publisher": "MDPI",
+      "subject": "General computer science",
+      "issn": "2227-9709",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": false,
+        "wos": "ESCI",
+        "source": "https://www.mdpi.com/journal/informatics/indexing",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Emerging Sources Citation Index; ESCI is distinct from SCIE. Confirm current coverage by exact title or ISSN in the official registries before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": "CHF 1,800 + applicable tax",
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & access model",
+          "url": "https://www.mdpi.com/journal/informatics",
+          "note": "The official journal description supplies the scope and fully open access publishing model.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Exact publisher indexing statement",
+          "url": "https://www.mdpi.com/journal/informatics/indexing",
+          "note": "The publisher explicitly lists Scopus and Emerging Sources Citation Index (ESCI), distinct from SCIE. This is a dated source statement, not a live registry query.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified CHF APC & tax terms",
+          "url": "https://www.mdpi.com/journal/informatics/apc",
+          "note": "The publisher quotes CHF 1,800 after acceptance, with applicable local tax additional. Conditional discounts are not assumed. No USD conversion is made.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "mdpi-robotics",
+      "title": "Robotics",
+      "publisher": "MDPI",
+      "subject": "Robotics & control",
+      "issn": "2218-6581",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": false,
+        "wos": "ESCI",
+        "source": "https://www.mdpi.com/journal/robotics/indexing",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Emerging Sources Citation Index; ESCI is distinct from SCIE. Confirm current coverage by exact title or ISSN in the official registries before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": "CHF 1,800 + applicable tax",
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & access model",
+          "url": "https://www.mdpi.com/journal/robotics",
+          "note": "The official journal description supplies the scope and fully open access publishing model.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Exact publisher indexing statement",
+          "url": "https://www.mdpi.com/journal/robotics/indexing",
+          "note": "The publisher explicitly lists Scopus and Emerging Sources Citation Index (ESCI), distinct from SCIE. This is a dated source statement, not a live registry query.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified CHF APC & tax terms",
+          "url": "https://www.mdpi.com/journal/robotics/apc",
+          "note": "The publisher quotes CHF 1,800 after acceptance, with applicable local tax additional. Conditional discounts are not assumed. No USD conversion is made.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "mdpi-information",
+      "title": "Information",
+      "publisher": "MDPI",
+      "subject": "Data science & knowledge systems",
+      "issn": "2078-2489",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": false,
+        "wos": "ESCI",
+        "source": "https://www.mdpi.com/journal/information/indexing",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Emerging Sources Citation Index; ESCI is distinct from SCIE. Confirm current coverage by exact title or ISSN in the official registries before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": "CHF 1,800 + applicable tax",
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & access model",
+          "url": "https://www.mdpi.com/journal/information/about",
+          "note": "The official journal description supplies the scope and fully open access publishing model.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Exact publisher indexing statement",
+          "url": "https://www.mdpi.com/journal/information/indexing",
+          "note": "The publisher explicitly lists Scopus and Emerging Sources Citation Index (ESCI), distinct from SCIE. This is a dated source statement, not a live registry query.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified CHF APC & tax terms",
+          "url": "https://www.mdpi.com/journal/information/apc",
+          "note": "The publisher quotes CHF 1,800 after acceptance, with applicable local tax additional. Conditional discounts are not assumed. No USD conversion is made.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "mdpi-sensors",
+      "title": "Sensors",
+      "publisher": "MDPI",
+      "subject": "Networks & communications",
+      "issn": "1424-8220",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://www.mdpi.com/journal/sensors",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Science Citation Index Expanded. Confirm current coverage by exact title or ISSN in the official registries before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": "CHF 2,600 + applicable tax",
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & access model",
+          "url": "https://www.mdpi.com/journal/sensors",
+          "note": "The official journal description supplies the scope and fully open access publishing model.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Exact publisher indexing statement",
+          "url": "https://www.mdpi.com/journal/sensors",
+          "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded (SCIE). This is a dated source statement, not a live registry query.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified CHF APC & tax terms",
+          "url": "https://www.mdpi.com/journal/sensors/apc",
+          "note": "The publisher quotes CHF 2,600 after acceptance, with applicable local tax additional. Conditional discounts are not assumed. No USD conversion is made.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "mdpi-electronics",
+      "title": "Electronics",
+      "publisher": "MDPI",
+      "subject": "Engineering & applied sciences",
+      "issn": "2079-9292",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://www.mdpi.com/journal/electronics/indexing",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Science Citation Index Expanded. Confirm current coverage by exact title or ISSN in the official registries before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": "CHF 2,400 + applicable tax",
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & access model",
+          "url": "https://www.mdpi.com/journal/electronics/about",
+          "note": "The official journal description supplies the scope and fully open access publishing model.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Exact publisher indexing statement",
+          "url": "https://www.mdpi.com/journal/electronics/indexing",
+          "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded (SCIE). This is a dated source statement, not a live registry query.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified CHF APC & tax terms",
+          "url": "https://www.mdpi.com/journal/electronics/apc",
+          "note": "The publisher quotes CHF 2,400 after acceptance, with applicable local tax additional. Conditional discounts are not assumed. No USD conversion is made.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "mdpi-applied-sciences",
+      "title": "Applied Sciences",
+      "publisher": "MDPI",
+      "subject": "Engineering & applied sciences",
+      "issn": "2076-3417",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://www.mdpi.com/journal/applsci",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Science Citation Index Expanded. Confirm current coverage by exact title or ISSN in the official registries before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": "CHF 2,400 + applicable tax",
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & access model",
+          "url": "https://www.mdpi.com/journal/applsci",
+          "note": "The official journal description supplies the scope and fully open access publishing model.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Exact publisher indexing statement",
+          "url": "https://www.mdpi.com/journal/applsci",
+          "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded (SCIE). This is a dated source statement, not a live registry query.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified CHF APC & tax terms",
+          "url": "https://www.mdpi.com/journal/applsci/apc",
+          "note": "The publisher quotes CHF 2,400 after acceptance, with applicable local tax additional. Conditional discounts are not assumed. No USD conversion is made.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "mdpi-energies",
+      "title": "Energies",
+      "publisher": "MDPI",
+      "subject": "Power & energy",
+      "issn": "1996-1073",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://www.mdpi.com/journal/energies/indexing",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Science Citation Index Expanded. Confirm current coverage by exact title or ISSN in the official registries before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": "CHF 2,600 + applicable tax",
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & access model",
+          "url": "https://www.mdpi.com/journal/energies",
+          "note": "The official journal description supplies the scope and fully open access publishing model.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Exact publisher indexing statement",
+          "url": "https://www.mdpi.com/journal/energies/indexing",
+          "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded (SCIE). This is a dated source statement, not a live registry query.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified CHF APC & tax terms",
+          "url": "https://www.mdpi.com/journal/energies/apc",
+          "note": "The publisher quotes CHF 2,600 after acceptance, with applicable local tax additional. Conditional discounts are not assumed. No USD conversion is made.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "mdpi-entropy",
+      "title": "Entropy",
+      "publisher": "MDPI",
+      "subject": "Data science & knowledge systems",
+      "issn": "1099-4300",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://www.mdpi.com/journal/Entropy",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Science Citation Index Expanded. Confirm current coverage by exact title or ISSN in the official registries before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": "CHF 2,600 + applicable tax",
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & access model",
+          "url": "https://www.mdpi.com/journal/Entropy",
+          "note": "The official journal description supplies the scope and fully open access publishing model.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Exact publisher indexing statement",
+          "url": "https://www.mdpi.com/journal/Entropy",
+          "note": "The publisher explicitly lists Scopus and Science Citation Index Expanded (SCIE). This is a dated source statement, not a live registry query.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified CHF APC & tax terms",
+          "url": "https://www.mdpi.com/journal/entropy/apc",
+          "note": "The publisher quotes CHF 2,600 after acceptance, with applicable local tax additional. Conditional discounts are not assumed. No USD conversion is made.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "ajstid",
+      "title": "African Journal of Science, Technology, Innovation and Development",
+      "publisher": "Taylor & Francis",
+      "subject": "Engineering & applied sciences",
+      "issn": "2042-1346",
+      "geography": {
+        "country": "South Africa",
+        "region": "Africa",
+        "institution": "Tshwane University of Technology",
+        "source": "https://www.tandfonline.com/RAJS",
+        "note": "The publisher identifies publication on behalf of Tshwane University of Technology."
+      },
+      "indexing": {
+        "scopus": true,
+        "scie": false,
+        "wos": "ESCI",
+        "source": "https://www.tandfonline.com/action/journalInformation?journalCode=rajs20&show=instructions",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Emerging Sources Citation Index; ESCI is distinct from SCIE. Confirm current coverage by exact title or ISSN in the official registries before submission."
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope & access model",
+          "url": "https://www.tandfonline.com/RAJS",
+          "note": "The official journal description supplies the scope and Open Select option and owning institution.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Exact publisher indexing statement",
+          "url": "https://www.tandfonline.com/action/journalInformation?journalCode=rajs20&show=instructions",
+          "note": "The publisher explicitly lists Scopus and Emerging Sources Citation Index (ESCI), distinct from SCIE. This is a dated source statement, not a live registry query.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Copublisher journal identity",
+          "url": "https://www.nisc.com/products/20/journals/african-journal-of-science-technology-innovation-and-development",
+          "note": "The copublisher lists the exact journal title and online ISSN. Current optional OA fees remain unverified.",
+          "kind": "Copublisher"
+        }
+      ]
+    },
+    {
+      "id": "wiley-spe",
+      "title": "Software: Practice and Experience",
+      "publisher": "Wiley",
+      "subject": "Software engineering",
+      "issn": "1097-024X",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://onlinelibrary.wiley.com/page/journal/1097024x/homepage/productinformation.html",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Science Citation Index Expanded. Current database-registry coverage must be reconfirmed before submission."
+      },
+      "access": "hybrid",
+      "usdListAPC": 5120,
+      "feeDisplay": null,
+      "knownUsdTotal": 5120,
+      "firstDecisionMedianDays": 14,
+      "evidence": [
+        {
+          "label": "Publisher scope and exact indexing list",
+          "url": "https://onlinelibrary.wiley.com/page/journal/1097024x/homepage/productinformation.html",
+          "note": "Explicit Scopus and Science Citation Index Expanded; describes design and implementation scope and exclusions.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified optional OA fee and subscription route",
+          "url": "https://onlinelibrary.wiley.com/page/journal/1097024x/homepage/fundedaccess.html",
+          "note": "USD 5,120 before tax for optional OA. The page explicitly discusses a subscription article licence.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Journal identity and first-decision metric",
+          "url": "https://onlinelibrary.wiley.com/journal/1097024X",
+          "note": "Online ISSN 1097-024X and 14-day median first decision; this is not time to publication.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "wiley-stvr",
+      "title": "Software Testing, Verification and Reliability",
+      "publisher": "Wiley",
+      "subject": "Software engineering",
+      "issn": "1099-1689",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://onlinelibrary.wiley.com/page/journal/10991689/homepage/productinformation.html",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Science Citation Index Expanded. Current database-registry coverage must be reconfirmed before submission."
+      },
+      "access": "hybrid",
+      "usdListAPC": 2880,
+      "feeDisplay": null,
+      "knownUsdTotal": 2880,
+      "firstDecisionMedianDays": 26,
+      "evidence": [
+        {
+          "label": "Publisher scope, surveys and exact indexes",
+          "url": "https://onlinelibrary.wiley.com/page/journal/10991689/homepage/productinformation.html",
+          "note": "Explicit Scopus and Science Citation Index Expanded; covers research and survey papers.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Hybrid publishing option",
+          "url": "https://onlinelibrary.wiley.com/page/journal/10991689/homepage/forauthors.html",
+          "note": "Author guidelines explicitly describe Hybrid Open Access as a choice carrying a fee.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified optional OA fee",
+          "url": "https://onlinelibrary.wiley.com/page/journal/10991689/homepage/fundedaccess.html",
+          "note": "Quotes USD 2,880 excluding applicable taxes and mentions the subscription article licence.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Identity and first-decision metric",
+          "url": "https://onlinelibrary.wiley.com/journal/10991689",
+          "note": "Online ISSN 1099-1689; 26-day median first decision, not publication duration.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "wiley-ccpe",
+      "title": "Concurrency and Computation: Practice and Experience",
+      "publisher": "Wiley",
+      "subject": "Cloud & distributed computing",
+      "issn": "1532-0634",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://onlinelibrary.wiley.com/page/journal/15320634/homepage/productinformation.html",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Science Citation Index Expanded. Current database-registry coverage must be reconfirmed before submission."
+      },
+      "access": "hybrid",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 4,
+      "evidence": [
+        {
+          "label": "Publisher scope and exact indexing list",
+          "url": "https://onlinelibrary.wiley.com/page/journal/15320634/homepage/productinformation.html",
+          "note": "Explicit Scopus and Science Citation Index Expanded; research and authoritative reviews on practical parallel/distributed computation.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified hybrid publishing choice",
+          "url": "https://onlinelibrary.wiley.com/page/journal/15320634/homepage/forauthors.html",
+          "note": "Author guidelines explicitly describe optional Hybrid Open Access and standard copyright transfer when OA is not selected.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Identity and first-decision metric",
+          "url": "https://onlinelibrary.wiley.com/journal/15320634",
+          "note": "Online ISSN 1532-0634; four-day median first decision, not time to publication.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "wiley-expert-systems",
+      "title": "Expert Systems",
+      "publisher": "Wiley",
+      "subject": "Artificial intelligence",
+      "issn": "1468-0394",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://onlinelibrary.wiley.com/page/journal/14680394/homepage/productinformation.html",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Science Citation Index Expanded. Current database-registry coverage must be reconfirmed before submission."
+      },
+      "access": "hybrid",
+      "usdListAPC": 3600,
+      "feeDisplay": null,
+      "knownUsdTotal": 3600,
+      "firstDecisionMedianDays": 3,
+      "evidence": [
+        {
+          "label": "Publisher scope and exact indexing list",
+          "url": "https://onlinelibrary.wiley.com/page/journal/14680394/homepage/productinformation.html",
+          "note": "Explicit Scopus and Science Citation Index Expanded; accepts research, reviews and surveys within four AI and knowledge-engineering tracks.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Verified optional OA fee and subscription route",
+          "url": "https://onlinelibrary.wiley.com/page/journal/14680394/homepage/fundedaccess.html",
+          "note": "USD 3,600 before tax if OA is selected; explicitly mentions subscription licensing.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Identity and first-decision metric",
+          "url": "https://onlinelibrary.wiley.com/journal/14680394",
+          "note": "Online ISSN 1468-0394; three-day median first decision, not publication time.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "iet-control",
+      "title": "IET Control Theory & Applications",
+      "publisher": "Wiley / IET",
+      "subject": "Robotics & control",
+      "issn": "1751-8652",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://ietresearch.onlinelibrary.wiley.com/hub/journal/17518652/homepage/productinformation.html",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Science Citation Index Expanded. Current database-registry coverage must be reconfirmed before submission. Indexing was captured in an official search excerpt; direct opening timed out."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher control scope and exact indexes",
+          "url": "https://ietresearch.onlinelibrary.wiley.com/hub/journal/17518652/homepage/productinformation.html",
+          "note": "Current publisher search excerpt explicitly lists Science Citation Index Expanded and SCOPUS. Direct opening timed out, so reconfirm the page and registries.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Fully OA, identity and article types",
+          "url": "https://ietresearch.onlinelibrary.wiley.com/journal/17518652",
+          "note": "Publisher identifies online ISSN 1751-8652, fully OA route and subject reviews, theoretical papers and tutorials.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "iet-gtd",
+      "title": "IET Generation, Transmission & Distribution",
+      "publisher": "Wiley / IET",
+      "subject": "Power & energy",
+      "issn": "1751-8695",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://ietresearch.onlinelibrary.wiley.com/hub/journal/17518695/homepage/productinformation.html",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Science Citation Index Expanded. Current database-registry coverage must be reconfirmed before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher power scope and exact indexes",
+          "url": "https://ietresearch.onlinelibrary.wiley.com/hub/journal/17518695/homepage/productinformation.html",
+          "note": "Explicit Scopus and Science Citation Index Expanded; includes power control, modelling and computational intelligence.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Fully OA route and identity",
+          "url": "https://ietresearch.onlinelibrary.wiley.com/journal/17518695",
+          "note": "Publisher states fully open access and online ISSN 1751-8695.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "iet-signal",
+      "title": "IET Signal Processing",
+      "publisher": "Wiley / IET",
+      "subject": "Engineering & applied sciences",
+      "issn": "1751-9683",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://ietresearch.onlinelibrary.wiley.com/page/journal/ietsp/homepage/productinformation.html",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Science Citation Index Expanded. Current database-registry coverage must be reconfirmed before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 63,
+      "evidence": [
+        {
+          "label": "Publisher scope, ISSN and exact indexes",
+          "url": "https://ietresearch.onlinelibrary.wiley.com/page/journal/ietsp/homepage/productinformation.html",
+          "note": "Explicit Scopus and Science Citation Index Expanded; research and review articles; online ISSN 1751-9683.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Gold OA route and first-decision metric",
+          "url": "https://ietresearch.onlinelibrary.wiley.com/journal/17519683",
+          "note": "Gold OA; 63-day median first decision, not publication time.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "iet-networks",
+      "title": "IET Networks",
+      "publisher": "Wiley / IET",
+      "subject": "Networks & communications",
+      "issn": "2047-4962",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": false,
+        "wos": "ESCI",
+        "source": "https://ietresearch.onlinelibrary.wiley.com/hub/journal/20474962/homepage/productinformation.html",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Emerging Sources Citation Index, distinct from SCIE. Current database-registry coverage must be reconfirmed before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": 54,
+      "evidence": [
+        {
+          "label": "Publisher network scope, gold OA and exact indexes",
+          "url": "https://ietresearch.onlinelibrary.wiley.com/hub/journal/20474962/homepage/productinformation.html",
+          "note": "Explicit Scopus and Emerging Sources Citation Index, with gold OA status.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Identity and first-decision metric",
+          "url": "https://ietresearch.onlinelibrary.wiley.com/journal/20474962",
+          "note": "Online ISSN 2047-4962; fully OA and 54-day median first decision, not time to publication.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "iet-smart-cities",
+      "title": "IET Smart Cities",
+      "publisher": "Wiley / IET",
+      "subject": "Networks & communications",
+      "issn": "2631-7680",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": false,
+        "wos": "ESCI",
+        "source": "https://ietresearch.onlinelibrary.wiley.com/hub/journal/26317680/homepage/productinformation.html",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Emerging Sources Citation Index, distinct from SCIE. Current database-registry coverage must be reconfirmed before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher scope, gold OA and exact indexes",
+          "url": "https://ietresearch.onlinelibrary.wiley.com/hub/journal/26317680/homepage/productinformation.html",
+          "note": "Explicit gold OA, ESCI and Scopus; scope includes city ICT, software, IoT, AI and energy.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publisher identity and fully OA route",
+          "url": "https://www.wiley.com/en-us/journals/IET%2BSmart%2BCities-p-26317680",
+          "note": "Online ISSN 2631-7680 and fully OA publishing model.",
+          "kind": "Publisher"
+        }
+      ]
+    },
+    {
+      "id": "iet-renewable",
+      "title": "IET Renewable Power Generation",
+      "publisher": "Wiley / IET",
+      "subject": "Power & energy",
+      "issn": "1752-1424",
+      "geography": null,
+      "indexing": {
+        "scopus": true,
+        "scie": true,
+        "wos": "SCIE",
+        "source": "https://ietresearch.onlinelibrary.wiley.com/hub/journal/17521424/homepage/productinformation.html",
+        "checked": "10 November 2026",
+        "note": "The publisher explicitly reports Scopus and Science Citation Index Expanded. Current database-registry coverage must be reconfirmed before submission."
+      },
+      "access": "open",
+      "usdListAPC": null,
+      "feeDisplay": null,
+      "knownUsdTotal": null,
+      "firstDecisionMedianDays": null,
+      "evidence": [
+        {
+          "label": "Publisher renewable-energy scope and exact indexes",
+          "url": "https://ietresearch.onlinelibrary.wiley.com/hub/journal/17521424/homepage/productinformation.html",
+          "note": "Explicit Scopus and Science Citation Index Expanded; fully OA; includes integration, storage, control and techno-economic research.",
+          "kind": "Publisher"
+        },
+        {
+          "label": "Publisher identity and fully OA route",
+          "url": "https://www.wiley.com/en-us/iet-renewable-power-generation-p-17521424",
+          "note": "Online ISSN 1752-1424 and fully OA publishing model.",
+          "kind": "Publisher"
+        }
+      ]
+    }
+  ]
+}
